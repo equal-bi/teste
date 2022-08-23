@@ -5,5 +5,8 @@ ajbhebfhabshbvhbfgevc
 
 dfhisegfuaehfskj
 
-###adicionando comentario para o segundo comit
+###adicionando comentario para o segundo commit
+
+
+Primeiras alterações em outra máquina - repo clonado PC Eduardo
 
