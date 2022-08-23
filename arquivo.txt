@@ -8,7 +8,9 @@ dfhisegfuaehfskj
 ###adicionando comentario para o segundo comit
 
 
-mudanças feitas para a criação de ma nova branch chamada feature
+mudanças feitas para a criação de uma nova branch chamada feature
+
+novas mudanças para outra branch chamada newbranch
 
 
 
